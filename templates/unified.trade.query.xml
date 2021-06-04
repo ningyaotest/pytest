@@ -1,0 +1,11 @@
+<xml>
+<body>订单查询</body>
+<signKey>signKey</signKey>
+<mch_create_ip>127.0.0.1</mch_create_ip>
+<mch_id>mch_id</mch_id>
+<nonce_str>1596521257953</nonce_str>
+<out_trade_no>out_trade_no</out_trade_no>
+<service>unified.trade.query</service>
+<sign>E42A89C36DDBD71A50A3D99858721C25</sign>
+<sign_type>MD5</sign_type>
+</xml>

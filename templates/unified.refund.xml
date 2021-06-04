@@ -1,0 +1,15 @@
+<xml>
+<body>测试支付</body>
+<signKey>signKey</signKey>
+<mch_create_ip>127.0.0.1</mch_create_ip>
+<mch_id>mch_id</mch_id>
+<nonce_str>1596521257953</nonce_str>
+<out_trade_no>out_trade_no</out_trade_no>
+<out_refund_no>out_refund_no</out_refund_no>
+<total_fee>total_fee</total_fee>
+<refund_fee>refund_fee</refund_fee>
+<op_user_id>13823241643</op_user_id>
+<service>unified.trade.refund</service>
+<sign>E42A89C36DDBD71A50A3D99858721C25</sign>
+<sign_type>MD5</sign_type>
+</xml>

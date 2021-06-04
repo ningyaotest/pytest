@@ -1,0 +1,17 @@
+<xml>
+    <body>测试支付</body>
+    <signKey>signKey</signKey>
+    <limit_credit_pay>0</limit_credit_pay>
+    <mch_create_ip>127.0.0.1</mch_create_ip>
+    <mch_id>mch_id</mch_id>
+    <nonce_str>1596521257953</nonce_str>
+     <notify_url>http://zeming.dev.swiftpass.cn/pytest/notify_suc</notify_url>
+    <openid>oUpF8uF26k6XIZMVqf1Pj2A6_ndw</openid>
+    <out_trade_no>out_trade_no</out_trade_no>
+    <auth_code>287026814957283578</auth_code>
+    <buyer_logon_id>13823241564</buyer_logon_id>>
+    <service>service</service>
+    <sign>FC70EBF2B58390D6804360ECD68F7A70</sign>
+    <sign_type>MD5</sign_type>
+    <total_fee>total_fee</total_fee>
+</xml>
