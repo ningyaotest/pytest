@@ -21,7 +21,6 @@ from common.signkey_dispose import signkey_info
 from common.configXML import *
 from common.Loggin import MyLog
 
-
 def ailjs(merchant_id, total_fee, refund_fee, service):
     '''
     接收测试用例中的测试数据做处理

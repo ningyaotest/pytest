@@ -7,6 +7,9 @@
 @Desc  : 
 '''
 import unittest
+import sys
+import getopt
+opts, args=getopt.getopt(sys.argv[1:],"p")
 from BeautifulReport import BeautifulReport
 if __name__ == '__main__':
     #收集测试用例
